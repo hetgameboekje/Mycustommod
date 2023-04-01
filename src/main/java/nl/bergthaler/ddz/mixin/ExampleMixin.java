@@ -1,7 +1,7 @@
-package nl.bergthaler.ddz.mixin.example.mixin;
+package nl.bergthaler.ddz.mixin;
 
 import net.minecraft.client.gui.screen.TitleScreen;
-import nl.bergthaler.ddz.mixin.example.ddz;
+import nl.bergthaler.ddz.ddz;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;

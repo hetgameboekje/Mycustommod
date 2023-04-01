@@ -1,4 +1,4 @@
-package nl.bergthaler.ddz.mixin.example;
+package nl.bergthaler.ddz;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
